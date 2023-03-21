@@ -15,6 +15,7 @@ export const App = () => {
   return (
     <div>
       <Profile
+        
         username={user.username}
         tag={user.tag}
         location={user.location}
