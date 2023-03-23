@@ -20,7 +20,7 @@ export const TableBody = styled.tbody`
     background-color: #ecf1f3;
 `;
 export const TableColumn = styled.td`
-  padding-top: 8px;
+  padding-top: 9px;
   padding-bottom: 8px;
   color: grey;
 `;
