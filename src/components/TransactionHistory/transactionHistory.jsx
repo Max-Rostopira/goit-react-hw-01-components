@@ -34,7 +34,7 @@ export default function Transactions({ items }) {
 }
 
 Transactions.propTypes = {
-  transactions: PropTypes.arrayOf(
+  items: PropTypes.arrayOf(
     PropTypes.shape({
       id: PropTypes.string,
       type: PropTypes.string,
