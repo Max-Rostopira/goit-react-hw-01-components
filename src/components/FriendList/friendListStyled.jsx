@@ -6,7 +6,7 @@ export const FriendItem = styled.li`
   width: 100%;
   padding: 10px;
   align-items: center;
-  gap: 10px;
+  gap: 11px;
 `;
 
 export const Status = styled.span`
